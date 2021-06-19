@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning java in college (online)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-- insta: @amartyasinha918
-- email: amartyasinha918@gmail.com
+-- insta: @amartyasinha918
+-- email: amartyasinha918@gmail.com
 
 <!---
 amartyasinha918/amartyasinha918 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
