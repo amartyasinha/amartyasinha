@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java in College (online)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-- insta: <instagram.com/amartyasinha918>
+- insta: [@amartyasinha918](instagram.com/amartyasinha918)
 - email: amartyasinha918@gmail.com
 
 <!---
