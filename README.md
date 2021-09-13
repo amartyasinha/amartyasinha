@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amartyasinha918
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java in College (online)
+- 🌱 I’m currently learning Python in College (online)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - insta: [@amartyasinha918](https://www.instagram.com/amartyasinha918)
