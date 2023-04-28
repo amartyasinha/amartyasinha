@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amartyasinha918
+- 👋 Hi, I’m @amartyasinha
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Machine Learning
 <!-- - 💞️ I’m looking to collaborate on ... -->
