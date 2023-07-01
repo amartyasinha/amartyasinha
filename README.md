@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amartyasinha
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m a Cloud and DevOps Enthusiast
+- 🌱 I’m currently learning Cloud and DevOps to improve my skills
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me:
 - insta: [@amartyasinha918](https://www.instagram.com/amartyasinha918)
