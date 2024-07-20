@@ -1,13 +1,20 @@
-- 👋 Hi, I’m @amartyasinha
-- 👀 I’m a Cloud and DevOps Enthusiast
-- 🌱 I’m currently learning Cloud and DevOps to improve my skills
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me:
-- insta: [@amartyasinha918](https://www.instagram.com/amartyasinha918)
-- email: amartyasinha918@gmail.com
+Hi, I’m @amartyasinha 👋
+---
+<!---
+I’m a Cloud and DevOps Enthusiast, passionate about Linux and Automation.  
+Currently working as a DevOps Engineer, with the aim to learn something new daily.  
+🐧 I play with Linux and breathe in `.yaml`.
+--->
+💻 DevOps Engineer by day, learner by always.  
+☁️ Breathing in YAML and playing with Linux on the Clouds.    
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amartyasinha&theme=dark)](https://git.io/streak-stats)
+- 🤝 Follow me on [LinkedIn](https://www.linkedin.com/in/amartyasinha918) for daily dose of DevOps.
+- 📩 Drop me a [Mail](mailto:amartyasinha918@gmail.com) to connect.
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amartyasinha&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <!---
