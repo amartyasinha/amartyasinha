@@ -14,8 +14,11 @@ Currently working as a DevOps Engineer, with the aim to learn something new dail
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amartyasinha&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=amartyasinha&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
+---
 
 <!---
 amartyasinha918/amartyasinha918 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
