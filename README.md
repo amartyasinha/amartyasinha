@@ -5,7 +5,7 @@ I’m a Cloud and DevOps Enthusiast, passionate about Linux and Automation.
 Currently working as a DevOps Engineer, with the aim to learn something new daily.  
 🐧 I play with Linux and breathe in `.yaml`.
 --->
-💻 DevOps Engineer by day, learner by always.  
+💻 Software Engineer by day, learner by always.  
 ☁️ Breathing in YAML and playing with Linux on the Clouds.    
 
 
