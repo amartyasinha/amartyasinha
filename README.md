@@ -9,7 +9,6 @@ Currently working as a DevOps Engineer, with the aim to learn something new dail
 ☁️ Breathing in YAML and playing with Linux on the Clouds.    
 
 
-- 🤝 Follow me on [LinkedIn](https://www.linkedin.com/in/amartyasinha918) for daily dose of DevOps.
 - 📩 Drop me a [Mail](mailto:amartyasinha918@gmail.com) to connect.
 
 ---
